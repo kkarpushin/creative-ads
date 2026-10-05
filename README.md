@@ -69,15 +69,15 @@ creative-ads/
 
 ```bash
 # Клонировать в папку скиллов Claude Code
-git clone https://github.com/yasikvlad/creative-ads.git ~/.claude/skills/creative-ads
+git clone https://github.com/kkarpushin/creative-ads.git ~/.claude/skills/creative-ads
 ```
 
 ## Связанные скиллы
 
-- [client-dna](https://github.com/yasikvlad/client-dna) — ДНК Клиента (автоматически вызывается при отсутствии данных ЦА)
-- [quiz-funnel](https://github.com/yasikvlad/quiz-funnel) — Квиз-воронки
-- [vsl-high-ticket](https://github.com/yasikvlad/vsl-high-ticket-skill) — VSL-сценарии
-- [sales-assistant](https://github.com/yasikvlad/sales-assistant) — Ассистент продаж
+- [client-dna](https://github.com/kkarpushin/client-dna) — ДНК Клиента (автоматически вызывается при отсутствии данных ЦА)
+- [quiz-funnel](https://github.com/kkarpushin/quiz-funnel) — Квиз-воронки
+- [vsl-high-ticket](https://github.com/kkarpushin/vsl-high-ticket-skill) — VSL-сценарии
+- [sales-assistant](https://github.com/kkarpushin/sales-assistant) — Ассистент продаж
 
 ## Использование
 

@@ -74,7 +74,7 @@ git clone https://github.com/kkarpushin/creative-ads.git ~/.claude/skills/creati
 
 ## Связанные скиллы
 
-- [client-dna](https://github.com/kkarpushin/client-dna) — ДНК Клиента (автоматически вызывается при отсутствии данных ЦА)
+- [client-dna](https://github.com/kkarpushin/client-dna-v2) — ДНК Клиента (автоматически вызывается при отсутствии данных ЦА)
 - [quiz-funnel](https://github.com/kkarpushin/quiz-funnel) — Квиз-воронки
 - [vsl-high-ticket](https://github.com/kkarpushin/vsl-high-ticket-skill) — VSL-сценарии
 - [sales-assistant](https://github.com/kkarpushin/sales-assistant) — Ассистент продаж
